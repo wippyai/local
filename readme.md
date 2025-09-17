@@ -74,7 +74,9 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 
 **Linux builds** are coming in future releases.
 
-## Core Capabilities
+## Why Choose Wippy Portable
+
+**Complete Privacy**: All your data remains on your local machine. No cloud storage or external data processing beyond AI model access.
 
 **Multi-Agent Collaboration**: Teams of specialized AI agents work together on complex tasks, with intelligent delegation based on expertise and automatic task routing to appropriate specialists.
 
@@ -86,21 +88,13 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 
 **Actor Model Architecture**: Built on proven concurrency patterns for reliable multi-agent coordination and stable operation.
 
-## Why Wippy Portable?
-
-**Complete Privacy**: All your data remains on your local machine. No cloud storage or external data processing beyond AI model access.
-
-**Agent Specialization**: Instead of one generalist AI, coordinate teams of specialist agents each optimized for specific tasks.
-
 **Persistent Context**: Projects and knowledge bases maintain state across sessions, building institutional memory over time.
-
-**Self-Improving**: The system can evolve and adapt to your workflows through controlled self-modification capabilities.
 
 **Integration Ready**: Connect to external services and APIs while maintaining local control and data sovereignty.
 
-## Getting Help
+## Issues and Support
 
-For questions and support, visit the [Wippy community discussions](https://github.com/wippyai/portable/discussions) or check the [issues page](https://github.com/wippyai/portable/issues) for known problems and solutions.
+For bug reports and feature requests, visit the [issues page](https://github.com/wippyai/portable/issues).
 
 ## License
 
