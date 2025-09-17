@@ -70,7 +70,7 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 
 - **Windows**: Modern Windows versions
 - **macOS**: Recent macOS versions  
-- **AI API Keys**: OpenRouter key required, OpenAI key optional
+- **AI API Keys**: OpenRouter key required, OpenAI key optional (necessary for knowledge base embeddings)
 
 ### Quick Start
 
