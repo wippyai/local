@@ -46,7 +46,7 @@ Wippy Portable is a desktop application that brings AI agent collaboration direc
 2. Open Account → API Keys
 3. Click Create API Key, give it a name, and optionally set a credit limit
 
-> You can configure Wippy to work with Anthropic, OpenAI directly, as well use local models.
+> Wippy supports configuration for Anthropic, OpenAI, and local models.
 
 ## Features
 
