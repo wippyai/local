@@ -30,7 +30,7 @@ Wippy Portable is a desktop application that brings AI agent collaboration direc
 
 - **Windows**: Modern Windows versions
 - **macOS**: Recent macOS versions  
-- **AI API Keys**: OpenRouter key required, OpenAI key optional (necessary for knowledge base embeddings)
+- **AI API Keys**: [OpenRouter](https://openrouter.ai/) key required, OpenAI key optional (necessary for knowledge base embeddings)
 
 ### Quick Start
 
