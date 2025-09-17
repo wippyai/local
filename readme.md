@@ -64,57 +64,27 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 
 - **Windows**: Windows 10 or later
 - **macOS**: macOS 10.14 or later  
-- **AI API Keys**: OpenAI and/or Anthropic API key required
+- **AI API Keys**: OpenRouter key required, OpenAI key optional
 
 ### Quick Start
 
 1. **Download** the latest release for your platform from the [releases page][releases]
 2. **Run** the application - no installation required
-3. **Configure** your AI provider keys when prompted:
-   - [OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key)
-   - [Anthropic API Key](https://www.merge.dev/blog/anthropic-api-key)
+3. **Configure** your API keys when prompted - see the built-in tutorials for detailed setup instructions
 
 **Linux builds** are coming in future releases.
 
 ## Core Capabilities
 
-### Multi-Agent Collaboration
-Create teams of specialized AI agents that work together on complex tasks. Each agent has distinct capabilities and can delegate work to others based on expertise requirements.
+**Multi-Agent Collaboration**: Teams of specialized AI agents work together on complex tasks, with intelligent delegation based on expertise and automatic task routing to appropriate specialists.
 
-### Dynamic Delegation System  
-Agents automatically route tasks to the most appropriate specialists, creating efficient workflows that adapt to your specific needs without manual coordination.
+**Knowledge Management**: Upload documents and create searchable local repositories. Agents can access your information while maintaining complete privacy with local processing.
 
-### Knowledge Bases
-Upload documents, create searchable knowledge repositories, and give agents access to your information. All processing happens locally with complete privacy.
+**Project Organization**: Structured workflows with agent teams that maintain context across sessions. Return to projects weeks later with full continuity.
 
-### Actor Model Architecture
-Built on proven concurrency patterns for reliable multi-agent coordination, ensuring stable operation even with complex delegation chains.
+**System Evolution**: Agents can propose system improvements and create custom tools with your approval, expanding capabilities dynamically.
 
-### System Modification
-Agents can propose and implement system improvements with your approval, expanding capabilities and creating custom tools as needed.
-
-### Project Templates
-Use structured workflows that organize complex work across multiple sessions, with agent teams that remember context and continue where you left off.
-
-## Use Cases
-
-**Personal Productivity**
-- Document analysis and research
-- Content creation and editing
-- Task organization and planning
-- Knowledge management
-
-**Professional Workflows**  
-- Project coordination and tracking
-- Data analysis and reporting  
-- Integration development
-- Process automation
-
-**Development Support**
-- Code review and analysis
-- System integration planning
-- Technical documentation
-- Architecture design
+**Actor Model Architecture**: Built on proven concurrency patterns for reliable multi-agent coordination and stable operation.
 
 ## Why Wippy Portable?
 
@@ -134,14 +104,10 @@ For questions and support, visit the [Wippy community discussions](https://githu
 
 ## License
 
-Wippy Portable is released under the [BSD 2-Clause License](LICENSE).
+Wippy Portable is released under the [Apache 2.0 License](LICENSE).
 
 ## Maintained By
 
 Wippy Portable is maintained by [Spiral Scout](https://spiralscout.com).
 
----
-
-<sub>This is an alpha release and is subject to change.</sub>
-
-[releases]: https://github.com/wippyai/portable/release
+[releases]: https://github.com/wippyai/portable/releases
