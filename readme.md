@@ -25,6 +25,7 @@ Wippy Portable is a desktop application that brings AI agent collaboration direc
 </div>
 
 ## Screenshots
+
 <img width="2878" height="1895" alt="image" src="https://github.com/user-attachments/assets/d2edd8c2-8110-4df5-a5c4-39a1dbcde2fa" />
 <img width="2786" height="1384" alt="image" src="https://github.com/user-attachments/assets/f0583d7d-9ede-4bf8-900d-26101812e301" />
 
@@ -91,6 +92,48 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 - No internet required except for AI model access
 - Local SQLite database for data storage
 - Offline knowledge base operations
+
+## Frequently Asked Questions
+
+### What is Wippy?
+
+Wippy is an integrated application platform where you can change and replace approximately 99% of the codebase from inside Wippy itself at runtime. It's a complete application operating system designed for AI agents to live, develop, and improve within a unified system.
+
+### Can Wippy work completely locally?
+
+Yes, Wippy can work completely locally on your machine. When working locally, Wippy does not collect any information or statistics from your installation. All your data remains on your computer.
+
+### Do I need to know programming to use Wippy?
+
+You don't need to be a programmer to work with Wippy, but having a structured approach is helpful. Wippy is designed to be accessible to non-technical users through its AI agent interface.
+
+### How do I start using Wippy effectively?
+
+Start small with simple tasks. Begin by exploring the interface and uploading your first file or creating a basic project. Don't try to handle complex projects all at once - use an iterative approach starting with a research phase and testing connections step by step.
+
+### What file types does Wippy support?
+
+Wippy supports documents (PDF, Word, PowerPoint), images (JPG, PNG, GIF), and text files. In this alpha version, document processing happens through our cloud service, but the content is not retained after processing - everything is stored locally.
+
+### Can Wippy integrate with external services?
+
+Wippy connects to LLM model providers based on your configuration and can integrate with anything that has an API or create APIs for other platforms to connect to it. We will provide modules for Discord, Slack, and other integrations in future releases.
+
+### Is Wippy scalable for team use?
+
+While this build is intended for personal use on your personal machine, the same agent architecture is used in production for multiple organizations. If you're interested in team-based or commercial use of Wippy, please contact [Spiral Scout](https://spiralscout.com).
+
+### What makes Wippy different from other AI frameworks?
+
+Wippy is not just an application framework - it's a fully integrated application operating system designed for agents to live, develop, and improve within a unified system. All of this runs within a single binary. The closest comparison would be a mix between BabyAGI and Erlang OTP, specifically designed for AI agents with a governance pipeline on top.
+
+### Will Wippy receive updates?
+
+On every application start, we check for recent modular updates and install them for you. We don't update your application state or custom builds - those remain yours.
+
+### Can I run Wippy on Linux or Raspberry Pi?
+
+Yes, you will be able to use Wippy on Linux, though it will be packaged differently than the current version. You can also run Wippy on a Raspberry Pi. The memory consumption for headless applications is within a few hundred megabytes.
 
 ## Issues and Support
 
