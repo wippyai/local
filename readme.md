@@ -131,10 +131,6 @@ Wippy is not just an application framework - it's a fully integrated application
 
 On every application start, we check for recent modular updates and install them for you. We don't update your application state or custom builds - those remain yours.
 
-### Can I run Wippy on Linux or Raspberry Pi?
-
-Yes, you will be able to use Wippy on Linux, though it will be packaged differently than the current version. You can also run Wippy on a Raspberry Pi. The memory consumption for headless applications is within a few hundred megabytes.
-
 ## Issues and Support
 
 For bug reports and feature requests, visit the [issues page](https://github.com/wippyai/portable/issues).
