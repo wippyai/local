@@ -81,8 +81,7 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 **Linux builds** are coming in future releases.
 
 ## Screenshots
-<img width="1508" height="561" alt="keeper_push" src="https://github.com/user-attachments/assets/91aa18fc-ad8f-4772-8f40-0726d4529ee0" />
-<img width="1496" height="1251" alt="enhance_tools" src="https://github.com/user-attachments/assets/3255273f-c0c8-4228-99ea-c7c7d2a802e7" />
+<img width="2878" height="1895" alt="image" src="https://github.com/user-attachments/assets/d2edd8c2-8110-4df5-a5c4-39a1dbcde2fa" />
 
 ## Issues and Support
 
