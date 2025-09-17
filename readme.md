@@ -55,7 +55,7 @@ Wippy Local is a desktop application that brings AI agent collaboration directly
 
 ## Features
 
-Wippy Portable provides a complete AI agent platform designed for personal and professional use:
+Wippy provides a complete AI agent platform designed for personal and professional use:
 
 **AI Agent Framework**
 - Multi-agent coordination with specialized roles
@@ -137,10 +137,10 @@ For bug reports and feature requests, visit the [issues page](https://github.com
 
 ## License
 
-Wippy Portable is released under the [Apache 2.0 License](LICENSE).
+Wippy Local is released under the [Apache 2.0 License](LICENSE).
 
 ## Maintained By
 
-Wippy Portable is maintained by [Spiral Scout](https://spiralscout.com).
+Wippy is maintained by [Spiral Scout](https://spiralscout.com).
 
 [releases]: https://github.com/wippyai/portable/releases
