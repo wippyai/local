@@ -35,7 +35,7 @@ Wippy Portable is a desktop application that brings AI agent collaboration direc
 ### Quick Start
 
 1. **Download** the latest release for your platform from the [releases page][releases]
-2. **Run** the application
+2. **Install and Run** the application
 3. **Configure** your API keys when prompted - see the built-in tutorials for detailed setup instructions
 
 **Linux builds** are coming in future releases.
