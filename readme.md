@@ -16,7 +16,7 @@
 
 </div>
 
-Wippy Portable is a desktop application that brings AI agent collaboration directly to your computer. Run sophisticated AI workflows locally with full privacy and control over your data.
+Wippy Portable is a desktop application that brings AI agent collaboration directly to your computer. Run sophisticated AI workflows locally with full privacy and control over your data. The platform evolves with your needs - agents can enhance capabilities and create new tools with your approval, building a personalized AI environment that grows more powerful over time.
 
 ## Features
 
@@ -46,11 +46,11 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 - Plugin architecture for extensibility
 - Real-time data synchronization
 
-**Self-Modification Capabilities**
-- Agents can modify system behavior and create new tools
-- User-controlled approval process for system changes
-- Version control and rollback functionality
-- Dynamic capability expansion
+**Extensible Architecture**
+- Plugin system for adding new capabilities
+- Integration with external services and APIs
+- Custom tool creation and workflow automation
+- Controlled system enhancement with user approval
 
 **Local Operation**
 - Complete privacy - all data stays on your machine
