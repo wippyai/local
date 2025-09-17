@@ -24,6 +24,22 @@ Wippy Portable is a desktop application that brings AI agent collaboration direc
 </a>
 </div>
 
+## Installation
+
+### Requirements
+
+- **Windows**: Modern Windows versions
+- **macOS**: Recent macOS versions  
+- **AI API Keys**: OpenRouter key required, OpenAI key optional (necessary for knowledge base embeddings)
+
+### Quick Start
+
+1. **Download** the latest release for your platform from the [releases page][releases]
+2. **Run** the application - no installation required
+3. **Configure** your API keys when prompted - see the built-in tutorials for detailed setup instructions
+
+**Linux builds** are coming in future releases.
+
 ## Features
 
 Wippy Portable provides a complete AI agent platform designed for personal and professional use:
@@ -63,22 +79,6 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 - No internet required except for AI model access
 - Local SQLite database for data storage
 - Offline knowledge base operations
-
-## Installation
-
-### Requirements
-
-- **Windows**: Modern Windows versions
-- **macOS**: Recent macOS versions  
-- **AI API Keys**: OpenRouter key required, OpenAI key optional (necessary for knowledge base embeddings)
-
-### Quick Start
-
-1. **Download** the latest release for your platform from the [releases page][releases]
-2. **Run** the application - no installation required
-3. **Configure** your API keys when prompted - see the built-in tutorials for detailed setup instructions
-
-**Linux builds** are coming in future releases.
 
 ## Screenshots
 <img width="2878" height="1895" alt="image" src="https://github.com/user-attachments/assets/d2edd8c2-8110-4df5-a5c4-39a1dbcde2fa" />
