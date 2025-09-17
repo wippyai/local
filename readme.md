@@ -16,7 +16,7 @@
 
 </div>
 
-Wippy Local is a desktop application that brings AI agent collaboration directly to your computer. Run multi-agent AI workflows locally with full privacy and control over your data. The platform evolves with your needs - agents can enhance capabilities and create new tools with your approval, building a personalized AI environment that grows more powerful over time.
+Wippy Local is a desktop application that brings AI agent collaboration securely to your computer. Run multi-agent AI workflows locally with full privacy and control over your data. The platform evolves with your needs - agents can enhance capabilities and create new tools with your approval, building a personalized AI environment that grows more powerful over time.
 
 <div align="center">
 <a href="https://github.com/wippyai/portable/releases">
