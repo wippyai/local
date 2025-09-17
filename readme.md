@@ -40,6 +40,14 @@ Wippy Portable is a desktop application that brings AI agent collaboration direc
 
 **Linux builds** are coming in future releases.
 
+### How to get your OpenRouter API key
+
+1. Sign in at openrouter.ai
+2. Open Account → API Keys
+3. Click Create API Key, give it a name, and optionally set a credit limit
+
+> You can configure Wippy to work with Anthropic, OpenAI directly, as well use local models.
+
 ## Features
 
 Wippy Portable provides a complete AI agent platform designed for personal and professional use:
