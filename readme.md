@@ -18,6 +18,12 @@
 
 Wippy Portable is a desktop application that brings AI agent collaboration directly to your computer. Run sophisticated AI workflows locally with full privacy and control over your data. The platform evolves with your needs - agents can enhance capabilities and create new tools with your approval, building a personalized AI environment that grows more powerful over time.
 
+<div align="center">
+<a href="https://github.com/wippyai/portable/releases">
+<img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download Latest Release">
+</a>
+</div>
+
 ## Features
 
 Wippy Portable provides a complete AI agent platform designed for personal and professional use:
@@ -62,8 +68,8 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 
 ### Requirements
 
-- **Windows**: Windows 10 or later
-- **macOS**: macOS 10.14 or later  
+- **Windows**: Modern Windows versions
+- **macOS**: Recent macOS versions  
 - **AI API Keys**: OpenRouter key required, OpenAI key optional
 
 ### Quick Start
@@ -73,24 +79,6 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 3. **Configure** your API keys when prompted - see the built-in tutorials for detailed setup instructions
 
 **Linux builds** are coming in future releases.
-
-## Why Choose Wippy Portable
-
-**Complete Privacy**: All your data remains on your local machine. No cloud storage or external data processing beyond AI model access.
-
-**Multi-Agent Collaboration**: Teams of specialized AI agents work together on complex tasks, with intelligent delegation based on expertise and automatic task routing to appropriate specialists.
-
-**Knowledge Management**: Upload documents and create searchable local repositories. Agents can access your information while maintaining complete privacy with local processing.
-
-**Project Organization**: Structured workflows with agent teams that maintain context across sessions. Return to projects weeks later with full continuity.
-
-**System Evolution**: Agents can propose system improvements and create custom tools with your approval, expanding capabilities dynamically.
-
-**Actor Model Architecture**: Built on proven concurrency patterns for reliable multi-agent coordination and stable operation.
-
-**Persistent Context**: Projects and knowledge bases maintain state across sessions, building institutional memory over time.
-
-**Integration Ready**: Connect to external services and APIs while maintaining local control and data sovereignty.
 
 ## Issues and Support
 
