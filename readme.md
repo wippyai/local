@@ -82,6 +82,7 @@ Wippy Portable provides a complete AI agent platform designed for personal and p
 
 ## Screenshots
 <img width="2878" height="1895" alt="image" src="https://github.com/user-attachments/assets/d2edd8c2-8110-4df5-a5c4-39a1dbcde2fa" />
+<img width="2786" height="1384" alt="image" src="https://github.com/user-attachments/assets/f0583d7d-9ede-4bf8-900d-26101812e301" />
 
 ## Issues and Support
 
