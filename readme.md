@@ -86,6 +86,7 @@ Wippy provides a complete AI agent platform designed for personal and profession
 - Integration with external services and APIs
 - Custom tool creation and workflow automation
 - Controlled system enhancement with user approval
+- MCP suppor
 
 **Local Operation**
 - Complete privacy - all data stays on your machine
