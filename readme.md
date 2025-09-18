@@ -97,7 +97,7 @@ Wippy provides a complete AI agent platform designed for personal and profession
 
 ### What is Wippy?
 
-Wippy is an integrated application platform where you can change and replace approximately 99% of the codebase from inside Wippy itself at runtime. It's a complete application operating system designed for AI agents to live, develop, and improve within a unified system.
+Wippy is an integrated application platform where you can change and replace approximately 99% of the application codebase from inside Wippy itself at runtime. It's a complete application operating system designed for AI agents to live, develop, and improve within a unified system.
 
 ### Can Wippy work completely locally?
 
